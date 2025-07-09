@@ -9,9 +9,8 @@
     "deploy": "npm run build && git add . && git commit -m 'Deploying to GitHub Pages' && git push"
   },
   "dependencies": {
-    "@11ty/eleventy": "^1.0.0"
+    "@11ty/eleventy": "^3.1.2"
   },
-  "devDependencies": {},
   "keywords": [],
   "author": "",
   "license": "ISC"
