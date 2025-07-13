@@ -2,22 +2,17 @@
 layout: base.njk
 title: Home
 ---
-# Welcome to My Eleventy Site
-
-## Blog Posts
 
 {% for post in collections.posts %}
-- [{{ post.data.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
+<div class="post">
+  <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+  <!-- <p><em>{{ post.date | date: "%B %d, %Y" }}</em></p> -->
+  {{ post.templateContent }}
+</div>
 {% endfor %}
 
-## About
+---
 
-Learn more about this site on the [About](/about) page.
+## Submit Your Story
 
-## Contact
-
-Feel free to reach out via the [Contact](/contact) page.
-
-## Colophon
-
-Read about the creation of this site on the [Colophon](/colophon) page.
+[Contact us](/contact) if you would like to share your Urbana home's story.

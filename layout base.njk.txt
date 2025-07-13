@@ -1,0 +1,25 @@
+---
+layout: base.njk
+title: Colophon
+---
+# About This Site
+
+*House Stories* is produced by Nicole Haglund. This website acts as the digital accompaniment to the physical signs mounted near the mentioned homes.
+
+The website is built using [Eleventy](https://www.11ty.dev/), hosted by [GitHub pages](https://pages.github.com/), and developed by [Andrew Haglund](https://haglund.app/).
+
+The [code](https://github.com/AndrewHaglund/urbanastories) for this project is open source.
+
+## Inspiration
+
+## Essential Tools
+
+- Macintosh
+- Markdown
+- Visual Studio Code
+- iA Writer
+- Pages (for accompanying print)
+
+## Credits
+
+- Inspired by a visit to the Krannert Art Museum’s exhibit on Midcentury Modern homes in the Champaign-Urbana area, Nicole Haglund wanted to collect stories from around Urbana.

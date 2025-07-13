@@ -2,23 +2,18 @@
 layout: base.njk
 title: About
 ---
-# About
+# About This Site
 
-This website is built using Eleventy, a simple and flexible static site generator. It serves as a platform to share posts related to various locations, each accompanied by an interactive map using Apple MapKit JS.
+*House Stories* is produced by Nicole Haglund.
 
-## Author
+This website acts as the digital accompaniment to the physical signs mounted near the mentioned homes. The project was inspired after a visit to the Krannert Art Museum’s exhibit on Midcentury Modern homes in the Champaign-Urbana area featuring the [Erlanger House](https://kam.illinois.edu/margaret-erlanger-house). This sparked the idea that there are countless interesting tidbits and stories about the neighborhood. The project aims to make this information more accessible with the community.
 
-[Your Name] - A brief introduction about yourself or the purpose of the website.
+The website is developed by [Andrew Haglund](https://haglund.app/) and the [code is open source](https://github.com/AndrewHaglund/urbanastories).
 
-## Purpose
+## Essential Tools
 
-The goal of this site is to provide accessible content while maintaining a clean and organized structure. Each post is designed to be easily readable and compliant with Safari Reader Mode.
-
-## Technologies Used
-
-- Eleventy
-- Markdown
-- Apple MapKit JS
-- GitHub Pages for hosting
-
-Feel free to explore the posts and learn more about the locations featured on this site!
+- Built using [Eleventy](https://www.11ty.dev/)
+- Hosted by [GitHub Pages](https://pages.github.com/)
+- Page content is written in [Markdown](https://daringfireball.net/projects/markdown/) with [iA Writer](https://ia.net/writer)
+- Coded in [Visual Studio Code](https://code.visualstudio.com/)
+- Made on the [Macintosh](https://www.apple.com/mac/) computing platform.

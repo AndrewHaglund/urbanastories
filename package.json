@@ -1,7 +1,7 @@
 {
-  "name": "my-eleventy-site",
+  "name": "house-stories",
   "version": "1.0.0",
-  "description": "A simple Eleventy based website with accessible design and GitHub Pages deployment.",
+  "description": "A West Urbana Neighborhood Project.",
   "main": "index.js",
   "scripts": {
     "build": "eleventy",
