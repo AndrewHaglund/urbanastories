@@ -6,6 +6,7 @@ This is a simple Eleventy-based website designed to be clean, organized, and acc
 
 - [Urbana.il.gov](https://www.urbanail.gov/living-urbana/page/historic-urbana)
 - [CU History museum](https://www.champaigncountyhistory.org/)
+- [CU neighborhood stories](https://storymaps.arcgis.com/stories/8a41395e64ee42bb886c36331a76a014)
 
 ## Project Structure
 
