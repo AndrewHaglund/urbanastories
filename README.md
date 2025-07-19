@@ -2,6 +2,11 @@
 
 This is a simple Eleventy-based website designed to be clean, organized, and accessible. The site includes a homepage that lists all posts, an About page, a Contact page, and a Colophon page. Each post is related to an address and includes an Apple MapKit JS map.
 
+## References
+
+- [Urbana.il.gov](https://www.urbanail.gov/living-urbana/page/historic-urbana)
+- [CU History museum](https://www.champaigncountyhistory.org/)
+
 ## Project Structure
 
 ```
