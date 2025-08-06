@@ -2,15 +2,17 @@
 layout: base.njk
 title: About
 ---
-# About This Site
+## About This Site
 
 *House Stories* is produced by Nicole Haglund.
 
 This website acts as the digital accompaniment to the physical signs mounted near the mentioned homes. The project was inspired after a visit to the Krannert Art Museum’s exhibit on Midcentury Modern homes in the Champaign-Urbana area featuring the [Erlanger House](https://kam.illinois.edu/margaret-erlanger-house). This sparked the idea that there are countless interesting tidbits and stories about the neighborhood. The project aims to make this information more accessible with the community.
 
-The website is developed by [Andrew Haglund](https://haglund.app/) and the [code is open source](https://github.com/AndrewHaglund/urbanastories).
+The website is developed by [Andrew Haglund](https://haglund.app/) and the [code](https://github.com/AndrewHaglund/urbanastories) is open source.
 
-## Essential Tools
+---
+
+### Essential Tools
 
 - Built using [Eleventy](https://www.11ty.dev/)
 - Hosted by [GitHub Pages](https://pages.github.com/)

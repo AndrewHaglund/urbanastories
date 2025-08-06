@@ -15,4 +15,4 @@ title: Home
 
 ## Submit Your Story
 
-[Contact us](/contact) if you would like to share your Urbana home's story.
+[Contact us](/contact) if you would like to share your Urbana home’s story.

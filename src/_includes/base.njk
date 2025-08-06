@@ -1,7 +1,7 @@
 {% include "header.njk" %}
 <main>
   {% if page.url and title and '/posts/' in page.url %}
-    <a href="/">← All Posts</a>
+    
     <h2><a href="{{ page.url }}">{{ title }}</a></h2>
   {% endif %}
 

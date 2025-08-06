@@ -2,9 +2,9 @@
 layout: base.njk
 title: Contact
 ---
-# Contact
+## Contact
 
-If you have a story to share for your home in Urbana, submit it below and we will get it added to the site and get a sign for your yard.
+If you have a story to share for your home in Urbana, IL, submit it below. With your permission it will be added to the website and we will provide a physical sign for your yard.
 
 <script data-letterbirduser="urbanastories" src="https://letterbird.co/embed/v1.js"></script>
 
