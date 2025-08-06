@@ -1,6 +1,12 @@
-# My Eleventy Site
+# Urbana Stories Project
 
-This is a simple Eleventy-based website designed to be clean, organized, and accessible. The site includes a homepage that lists all posts, an About page, a Contact page, and a Colophon page. Each post is related to an address and includes an Apple MapKit JS map.
+This is a simple Eleventy-based website designed simple and accessible. The site has a list of posts, pages for each post, and a Contact and About page.
+
+## Quickstart
+To get the site building locally:
+1. use Homebrew to install Node and [Eleventy](https://www.11ty.dev/docs/)
+1. Run `npx @11ty/eleventy` and `npx @11ty/eleventy --serve` in Terminal
+1. Open your browser to `http://localhost:8080/`
 
 ## References
 
